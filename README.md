@@ -2,13 +2,13 @@
 
 Repository ini berisi project automation testing berbasis **Katalon Studio**.
 
-Fokus pengujian ada pada beberapa alur utama di website BPJS Ketenagakerjaan, terutama yang berhubungan dengan navigasi halaman publik, pergantian bahasa, validasi elemen halaman kontak, dan akses ke fitur simulasi saldo. Selain suite utama yang sudah dirangkai untuk dijalankan, project ini juga sudah memiliki beberapa test case tambahan hasil pengembangan lanjutan pada area homepage.
+Fokus pengujian ada pada beberapa alur utama di website BPJS Ketenagakerjaan, terutama yang berhubungan dengan navigasi halaman publik, pergantian bahasa, validasi elemen halaman kontak, dan akses ke fitur simulasi saldo.
 
 ## Tujuan Pengerjaan
 
 Project ini di susun untuk menunjukkan pendekatan kerja dalam menulis automation test UI, yaitu:
 
-- memecah skenario ke dalam test case yang kecil dan jelas
+- membagi skenario ke dalam test case yang kecil dan jelas
 - mengelompokkan skenario sejenis ke dalam test suite
 - memisahkan object locator ke `Object Repository`
 - menjaga project tetap rapi untuk kebutuhan version control
