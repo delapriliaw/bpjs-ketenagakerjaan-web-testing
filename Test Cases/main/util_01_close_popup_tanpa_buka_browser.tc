@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>util_01_close_popup_tanpa_buka_browser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d4ad4cd-a51a-4cef-8790-53a52332e20c</testCaseGuid>
+</TestCaseEntity>

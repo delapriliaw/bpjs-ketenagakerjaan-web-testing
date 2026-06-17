@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>setup_01_buka_web_tanpa_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2700370c-0891-4c8d-b2e4-16435192fd78</testCaseGuid>
+</TestCaseEntity>

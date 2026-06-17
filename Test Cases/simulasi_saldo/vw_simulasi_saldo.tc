@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>vw_simulasi_saldo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed86fba9-8dbb-4662-bda9-719d7a34790b</testCaseGuid>
+</TestCaseEntity>

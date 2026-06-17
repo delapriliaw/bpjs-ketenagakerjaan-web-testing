@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_inkep_penerima_upah</name>
+   <tag></tag>
+   <elementGuidId>6615d2de-f030-49bb-911d-7d45f7ac7c1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/penerima-upah.html']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/penerima-upah.html']</value>
+      <webElementGuid>026dcbb5-fd71-4e47-94cb-27891a96efdf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

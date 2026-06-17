@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_inkep_bkn_penerima_upah</name>
+   <tag></tag>
+   <elementGuidId>0ab9d557-6a83-4f3f-992b-61b98689f65f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/bukan-penerima-upah.html']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/bukan-penerima-upah.html']</value>
+      <webElementGuid>0aea6f2c-563c-4fc4-a87a-f2b4c4ec064f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_ip_tjsl</name>
+   <tag></tag>
+   <elementGuidId>ae47d937-5b35-467e-9f44-b72bafaef898</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[normalize-space(.)='TJSL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space(.)='TJSL']</value>
+      <webElementGuid>afb97640-2cd3-407e-9464-98320a9cacda</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

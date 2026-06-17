@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_ip_peraturan</name>
+   <tag></tag>
+   <elementGuidId>4f27785a-8f00-4c1a-ae69-ed14ccfe4a53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[normalize-space(.)='Peraturan-Peraturan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space(.)='Peraturan-Peraturan']</value>
+      <webElementGuid>610d2f81-3fe7-4bb0-ac18-29da94352de1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

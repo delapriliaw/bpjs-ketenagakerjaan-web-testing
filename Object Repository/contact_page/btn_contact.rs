@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_contact</name>
+   <tag></tag>
+   <elementGuidId>d0f5afe3-8ff2-4c2a-b0d8-6a82bbc09c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Kontak']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Kontak']</value>
+      <webElementGuid>84b12bc9-3a8b-4996-912e-526d6fd5c446</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

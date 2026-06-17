@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>lang-01_ganti_bahasa_ke_english</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97b7dde2-ced2-48e4-a427-68a2be787117</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_check_simulasi_saldo</name>
+   <tag></tag>
+   <elementGuidId>41a54791-cd57-4140-93ec-999f9545cf66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;infosaldo&quot;]/div/div/div[2]/div/div[1]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;infosaldo&quot;]/div/div/div[2]/div/div[1]/h2</value>
+      <webElementGuid>169645d8-57e2-4bc9-ba03-0e51473625d9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

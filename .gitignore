@@ -1,0 +1,16 @@
+.gradle/
+build/
+bin/
+Libs/
+Reports/
+output/
+!output/.gitkeep
+.cache/
+
+.classpath
+.project
+.settings/
+
+settings/internal/
+settings/external/
+settings/web-recorder/

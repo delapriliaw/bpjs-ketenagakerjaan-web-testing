@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_inkep_jasa_konstruksi</name>
+   <tag></tag>
+   <elementGuidId>a7e8e037-02ac-481d-938b-ce70a94244b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/jasa-konstruksi.html']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/jasa-konstruksi.html']</value>
+      <webElementGuid>cbaf4f38-d1e9-4995-8f67-90f709b3bb55</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

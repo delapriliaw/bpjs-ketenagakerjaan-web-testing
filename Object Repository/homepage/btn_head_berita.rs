@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_berita</name>
+   <tag></tag>
+   <elementGuidId>69dde75d-701a-45cc-b0af-07760987e41b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[normalize-space(.)='Berita']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[normalize-space(.)='Berita']</value>
+      <webElementGuid>940d5e1a-3d25-4d65-b7c6-6b674e522338</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

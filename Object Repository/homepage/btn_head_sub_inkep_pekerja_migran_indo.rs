@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_head_sub_inkep_pekerja_migran_indo</name>
+   <tag></tag>
+   <elementGuidId>d6873c14-5826-4ef0-9cd5-324855d2690e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/pekerja-migran-indonesia.html']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/pekerja-migran-indonesia.html']</value>
+      <webElementGuid>3a66aa4b-a804-4dd5-8fd5-69c1256061d9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
