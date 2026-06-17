@@ -1,12 +1,12 @@
 # Automasi Pengujian Web BPJS Ketenagakerjaan
 
-Repository ini berisi project automation testing berbasis **Katalon Studio**.
+Repository ini berisi project automation testing berbasis **Katalon Studio** untuk menguji web https://www.bpjsketenagakerjaan.go.id/ milik BPJS Ketenagakerjaan.
 
-Fokus pengujian ada pada beberapa alur utama di website BPJS Ketenagakerjaan, terutama yang berhubungan dengan navigasi halaman publik, pergantian bahasa, validasi elemen halaman kontak, dan akses ke fitur simulasi saldo.
+Pengujian difokuskan pada beberapa fitur utama web tersebut, terutama yang berhubungan dengan navigasi halaman publik, pergantian bahasa, validasi elemen halaman kontak, dan akses ke fitur simulasi saldo.
 
 ## Tujuan Pengerjaan
 
-Project ini di susun untuk menunjukkan pendekatan kerja dalam menulis automation test UI, yaitu:
+Project ini disusun untuk menunjukkan pendekatan kerja dalam menulis automation test UI, yaitu:
 
 - membagi skenario ke dalam test case yang kecil dan jelas
 - mengelompokkan skenario sejenis ke dalam test suite
@@ -15,7 +15,10 @@ Project ini di susun untuk menunjukkan pendekatan kerja dalam menulis automation
 
 ## Cakupan Pengujian
 
-Pengujian dalam repository ini saat ini mencakup empat area utama yang sudah tersusun dalam test suite, ditambah beberapa test case tambahan yang sudah tersedia di level project.
+Pengujian saat ini mencakup empat area utama yang sudah tersusun dalam test suite, ditambah beberapa test case tambahan yang sudah tersedia di level project.
+
+## Requirements
+- `Katalon Studio 10.x atau lebih baru`
 
 ### 1. Pergantian Bahasa di Homepage
 
@@ -106,30 +109,9 @@ Di luar suite ini, project juga memiliki test case tambahan terkait saldo, yaitu
 - `homepage/saldo_upah`
 - `saldo_upah`
 
-Kedua file tersebut saat ini sudah tersedia di project, tetapi belum dirangkai ke dalam test suite yang aktif.
+Kedua file tersebut saat ini sudah tersedia di project, tetapi belum ditambahkan ke dalam test suite yang aktif.
 
-## Struktur Project
-
-```text
-.
-|-- Test Cases/
-|-- Test Suites/
-|-- Object Repository/
-|-- Scripts/
-|-- Profiles/
-|-- Include/
-|-- settings/
-|-- Bpjs Ketenagakerjaan.prj
-|-- build.gradle
-```
-
-Keterangan singkat:
-
-- `Test Cases/` berisi skenario pengujian per kasus
-- `Test Suites/` berisi kumpulan test case yang dijalankan bersama
-- `Object Repository/` berisi locator elemen
-- `Scripts/` berisi script Groovy hasil generate Katalon
-- `Profiles/` berisi konfigurasi environment
+## Ringkasan Project
 
 Secara keseluruhan, isi project saat ini terdiri dari:
 
@@ -169,5 +151,5 @@ Jika runtime Katalon tersedia, project dapat dijalankan dengan mengarah ke file:
 
 - Repository ini disusun sebagai submission technical test, jadi prioritas utamanya adalah keterbacaan struktur dan kejelasan cakupan test.
 - Folder hasil generate seperti `Reports/`, `bin/`, `Libs/`, dan konfigurasi lokal tidak disertakan ke repository.
-- Locator disimpan di `Object Repository/` agar perubahan elemen UI lebih mudah di mantain.
+- Locator disimpan di `Object Repository/` agar perubahan elemen UI lebih mudah di-mantain.
 - Project ini belum dimaksudkan sebagai test suite yang lengkap untuk seluruh website, tetapi sebagai representasi cara menyusun automation test yang terstruktur dan mudah ditelusuri saat direview.
